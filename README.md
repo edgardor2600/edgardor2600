@@ -138,17 +138,6 @@ Mi experiencia abarca desde **arquitectura de software** y **desarrollo full‑s
 
 ---
 
-## 🤝 Cómo Colaborar
-
-Si te interesa contribuir a alguno de mis proyectos:
-
-1. **Explora los issues abiertos** — Busca `good first issue` para comenzar
-2. **Crea una rama** — `feat/<tema>` o `fix/<detalle>`
-3. **Abre un Pull Request** — Con descripción clara, pruebas y pasos para reproducir
-4. **¿Dudas?** — Abre un issue con preguntas o sugerencias
-
----
-
 ## 📬 Contacto
 
 | Canal | Información |
@@ -157,17 +146,4 @@ Si te interesa contribuir a alguno de mis proyectos:
 | **GitHub** | [@edgardor2600](https://github.com/edgardor2600) |
 | **Ubicación** | Colombia 🇨🇴 |
 
----
 
-<div align="center">
-
-> **"Construir soluciones que funcionen en producción y sean fáciles de mantener es mi prioridad."**  
-> — Edgardo Rodríguez
-
-</div>
-
----
-
-<p align="center">
-  <sub>¿Hablamos? Abre un issue o escríbeme por email. Estoy abierto a colaboraciones, aprendizaje y nuevos desafíos. 🚀</sub>
-</p>
