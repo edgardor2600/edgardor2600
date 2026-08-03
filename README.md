@@ -1,149 +1,49 @@
-<!-- README Profesional - Edgardo Rodríguez -->
+# Edgardo Rodríguez
 
-<div align="center">
-  <h1>🚀 Edgardo Rodríguez</h1>
-  <p><strong>Software Engineer • Full‑Stack • DevOps • AI Enthusiast</strong></p>
-  <p>Estudiante de Ingeniería | Colombia 🇨🇴</p>
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-edgardor2600-black?style=flat-square&logo=github)](https://github.com/edgardor2600)
-  [![Email](https://img.shields.io/badge/Email-erq2600@gmail.com-red?style=flat-square&logo=gmail)](mailto:erq2600@gmail.com)
-</div>
+Ingeniero de software en formación, enfocado en desarrollo full-stack, DevOps y aplicación práctica de IA en productos reales.
+
+Bucaramanga, Colombia · [erq2600@gmail.com](mailto:erq2600@gmail.com) · [github.com/edgardor2600](https://github.com/edgardor2600)
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-Soy **Edgardo Rodríguez**, estudiante de Ingeniería de Software apasionado por crear software bien diseñado, mantenible y orientado a resolver problemas reales.
+Estudiante de Ingeniería de Sistemas en las Unidades Tecnológicas de Santander (UTS), con formación previa como Tecnólogo en Desarrollo de Sistemas Informáticos. Trabajo en todo el ciclo de un producto: desde el diseño de arquitectura hasta el despliegue, pasando por automatización y buenas prácticas de ingeniería.
 
-Mi experiencia abarca desde **arquitectura de software** y **desarrollo full‑stack**, hasta **DevOps**, **CI/CD** y **inteligencia artificial**. Me encanta trabajar desde la ideación hasta el despliegue en producción, utilizando contenedores, automatización y mejores prácticas de ingeniería.
+Actualmente profundizando en arquitectura de software, Kubernetes, AWS y modelos LLM aplicados (RAG, pipelines de inferencia).
 
-**Objetivo:** Convertirme en Software Engineer especializado en arquitectura escalable, IA/ML aplicado y cloud computing.
+## Stack técnico
 
----
+**Lenguajes:** Python, TypeScript, JavaScript, Dart, Java, Bash
 
-## 🛠️ Tech Stack
+**Frontend / Mobile:** React, Flutter, Tailwind CSS
 
-<div align="center">
+**Backend:** FastAPI, SQLAlchemy, Node.js, Spring Boot, Thymeleaf, PHP
 
-**Lenguajes**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
+**Datos:** PostgreSQL, MySQL, SQLite, Firebase Firestore, Redis
 
-**Frontend & Mobile**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+**Infraestructura:** Docker, GitHub Actions, AWS (en profundización), Linux
 
-**Backend & Frameworks**  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
+**IA:** modelos LLM, RAG, Rasa
 
-**DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat-square)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+## Proyectos
 
-**Bases de Datos**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+**[AI Infrastructure Monitor](https://github.com/edgardor2600/ai-infra-monitor)** — Herramienta de observabilidad y métricas en tiempo real para infraestructura de modelos de IA, con módulo de análisis de disco. En evaluación como producto SaaS.
 
-**IA & ML**  
-![LLM](https://img.shields.io/badge/-LLM_Models-412991?logo=openai&logoColor=white&style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-FF6B6B?style=flat-square)
+**[AulaWithU](https://github.com/edgardor2600/AulaWithu)** — Plataforma educativa colaborativa en tiempo real, con sincronización offline-first, pizarra compartida y gestión de cursos.
 
-</div>
+**[EcoMind](https://github.com/edgardor2600/EcoMind)** — Prototipo IoT para gestión energética residencial, con arquitectura offline-first y asistente local de IA.
 
----
+**[Sistema de Votaciones Web](https://github.com/edgardor2600/Aplicaci-n-de-Votaciones-Web-Full-Stack-con-Docker-y-CI-CD)** — Aplicación full-stack con contenedores Docker y pipeline de CI/CD.
 
-## 📊 Estadísticas GitHub
+**[playground-linux-ci](https://github.com/edgardor2600/playground-linux-ci)** — Laboratorio de prácticas con GitHub Actions y CI/CD.
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=edgardor2600&show_icons=true&theme=github_dark&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgardor2600&layout=compact&theme=github_dark" alt="Top Languages" width="100%"/>
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edgardor2600&theme=github-dark&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
+## Certificaciones
 
----
+- Data Analytics Essentials — Cisco Networking Academy (2026)
+- Scrum Fundamentals Certified (SFC) — SCRUMstudy (2024)
 
-## 🎯 Áreas de Especialización
+## Contacto
 
-- **Software Architecture** — Diseño escalable, Clean Architecture, Microservicios
-- **Full Stack Development** — Frontend, Backend, APIs REST, integración de servicios
-- **DevOps & Infrastructure** — Docker, CI/CD, GitHub Actions, observabilidad, monitoreo
-- **Cloud & Containers** — AWS (en aprendizaje), Kubernetes (en aprendizaje)
-- **AI & Machine Learning** — Modelos LLM locales, RAG, pipelines de inferencia
-- **Mobile Development** — Flutter, Dart, aplicaciones nativas
-- **Automation** — Scripts, tooling, procesos
-
----
-
-## 📚 Actualmente Aprendiendo
-
-- 🏗️ Arquitectura de Software avanzada y patrones de diseño
-- ☸️ Kubernetes y orquestación de contenedores
-- ☁️ AWS (EC2, S3, Lambda, RDS)
-- 📊 Observabilidad y sistemas distribuidos
-- 🤖 Modelos LLM y Retrieval Augmented Generation (RAG)
-- ⚡ FastAPI y optimización de backends
-- 🎨 React avanzado y patrones modernos
-
----
-
-## 💡 Proyectos Destacados
-
-### 🔹 [ai-infra-monitor](https://github.com/edgardor2600/ai-infra-monitor)
-**Python** — Monitoreo de infraestructura para modelos IA. Observabilidad y métricas en tiempo real.
-
-### 🔹 [AulaWithu](https://github.com/edgardor2600/AulaWithu)
-**TypeScript** — Plataforma de educación con autenticación, gestión de cursos y seguimiento de progreso.
-
-### 🔹 [EcoMind](https://github.com/edgardor2600/EcoMind)
-**Flutter / Dart** — Aplicación móvil para conciencia ambiental con interfaz moderna.
-
-### 🔹 [Aplicación de Votaciones Web (Full Stack)](https://github.com/edgardor2600/Aplicaci-n-de-Votaciones-Web-Full-Stack-con-Docker-y-CI-CD)
-**HTML · Docker · CI/CD** — Sistema completo de votaciones con despliegue en contenedores.
-
-### 🔹 [bot_poly](https://github.com/edgardor2600/bot_poly)
-**JavaScript** — Bot interactivo con integraciones.
-
-### 🔹 [playground-linux-ci](https://github.com/edgardor2600/playground-linux-ci)
-**Shell / CI** — Laboratorio de prácticas con GitHub Actions y CI/CD.
-
----
-
-## 🚀 Objetivos Profesionales
-
-✅ Consolidarme como **Software Engineer** con especialidad en arquitectura de software  
-✅ Construir **productos en producción** que resuelvan problemas reales y escalen  
-✅ Dominar **IA/ML aplicado** a productos y sistemas  
-✅ Profundizar en **DevOps y Cloud** (AWS, Kubernetes, observabilidad)  
-✅ Contribuir a **proyectos Open Source** y trabajar en equipo  
-✅ Desarrollar habilidades de **liderazgo técnico** y mentoría  
-
----
-
-## 📬 Contacto
-
-| Canal | Información |
-|-------|-------------|
-| **Email** | [erq2600@gmail.com](mailto:erq2600@gmail.com) |
-| **GitHub** | [@edgardor2600](https://github.com/edgardor2600) |
-| **Ubicación** | Colombia 🇨🇴 |
-
-
+- Email: [erq2600@gmail.com](mailto:erq2600@gmail.com)
+- GitHub: [@edgardor2600](https://github.com/edgardor2600)
