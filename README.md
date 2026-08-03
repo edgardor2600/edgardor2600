@@ -1,49 +1,67 @@
+<div align="center">
+
 # Edgardo Rodríguez
+### Software Engineer · Full-Stack & DevOps
 
-Ingeniero de software en formación, enfocado en desarrollo full-stack, DevOps y aplicación práctica de IA en productos reales.
+Estudiante de Ingeniería de Sistemas construyendo software desde la arquitectura hasta el despliegue, con foco en automatización e IA aplicada.
 
-Bucaramanga, Colombia · [erq2600@gmail.com](mailto:erq2600@gmail.com) · [github.com/edgardor2600](https://github.com/edgardor2600)
+[![Email](https://img.shields.io/badge/-erq2600%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:erq2600@gmail.com)
+[![GitHub](https://img.shields.io/badge/-edgardor2600-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/edgardor2600)
 
----
+</div>
 
-## Sobre mí
+<br>
 
-Estudiante de Ingeniería de Sistemas en las Unidades Tecnológicas de Santander (UTS), con formación previa como Tecnólogo en Desarrollo de Sistemas Informáticos. Trabajo en todo el ciclo de un producto: desde el diseño de arquitectura hasta el despliegue, pasando por automatización y buenas prácticas de ingeniería.
+### Stack
 
-Actualmente profundizando en arquitectura de software, Kubernetes, AWS y modelos LLM aplicados (RAG, pipelines de inferencia).
+<div align="center">
 
-## Stack técnico
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat-square&logo=dart)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=openjdk)
+&nbsp;
+![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat-square&logo=flutter)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat-square&logo=fastapi)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=nodedotjs)
+![Spring](https://img.shields.io/badge/-Spring_Boot-333333?style=flat-square&logo=springboot)
+&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase)
+&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat-square&logo=githubactions)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat-square&logo=amazonaws)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
 
-**Lenguajes:** Python, TypeScript, JavaScript, Dart, Java, Bash
+</div>
 
-**Frontend / Mobile:** React, Flutter, Tailwind CSS
+<br>
 
-**Backend:** FastAPI, SQLAlchemy, Node.js, Spring Boot, Thymeleaf, PHP
+### Proyectos
 
-**Datos:** PostgreSQL, MySQL, SQLite, Firebase Firestore, Redis
+| Proyecto | Descripción |
+|---|---|
+| **[AI Infrastructure Monitor](https://github.com/edgardor2600/ai-infra-monitor)** | Observabilidad y métricas en tiempo real para infraestructura de IA, con módulo de análisis de disco. En evaluación como producto SaaS. |
+| **[AulaWithU](https://github.com/edgardor2600/AulaWithu)** | Plataforma educativa colaborativa en tiempo real, con sync offline-first y pizarra compartida. |
+| **[EcoMind](https://github.com/edgardor2600/EcoMind)** | Prototipo IoT para gestión energética residencial con asistente local de IA. |
+| **[Sistema de Votaciones Web](https://github.com/edgardor2600/Aplicaci-n-de-Votaciones-Web-Full-Stack-con-Docker-y-CI-CD)** | Full-stack con Docker y pipeline de CI/CD. |
+| **[playground-linux-ci](https://github.com/edgardor2600/playground-linux-ci)** | Laboratorio de prácticas con GitHub Actions y CI/CD. |
 
-**Infraestructura:** Docker, GitHub Actions, AWS (en profundización), Linux
+<br>
 
-**IA:** modelos LLM, RAG, Rasa
-
-## Proyectos
-
-**[AI Infrastructure Monitor](https://github.com/edgardor2600/ai-infra-monitor)** — Herramienta de observabilidad y métricas en tiempo real para infraestructura de modelos de IA, con módulo de análisis de disco. En evaluación como producto SaaS.
-
-**[AulaWithU](https://github.com/edgardor2600/AulaWithu)** — Plataforma educativa colaborativa en tiempo real, con sincronización offline-first, pizarra compartida y gestión de cursos.
-
-**[EcoMind](https://github.com/edgardor2600/EcoMind)** — Prototipo IoT para gestión energética residencial, con arquitectura offline-first y asistente local de IA.
-
-**[Sistema de Votaciones Web](https://github.com/edgardor2600/Aplicaci-n-de-Votaciones-Web-Full-Stack-con-Docker-y-CI-CD)** — Aplicación full-stack con contenedores Docker y pipeline de CI/CD.
-
-**[playground-linux-ci](https://github.com/edgardor2600/playground-linux-ci)** — Laboratorio de prácticas con GitHub Actions y CI/CD.
-
-## Certificaciones
+### Certificaciones
 
 - Data Analytics Essentials — Cisco Networking Academy (2026)
 - Scrum Fundamentals Certified (SFC) — SCRUMstudy (2024)
 
-## Contacto
+<br>
 
-- Email: [erq2600@gmail.com](mailto:erq2600@gmail.com)
-- GitHub: [@edgardor2600](https://github.com/edgardor2600)
+<div align="center">
+
+📍 Bucaramanga, Colombia
+
+</div>
