@@ -9,7 +9,7 @@
 📍 Bucaramanga, Colombia &nbsp;·&nbsp; 🌎 Disponible para remoto &nbsp;·&nbsp; 🎯 Buscando práctica o primer rol junior
 
 [![Email](https://img.shields.io/badge/Email-erq2600@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erq2600@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/edgardo-rodriguez-5a95a231a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgardo-rodriguez-5a95a231a)
 
 </div>
 
