@@ -3,7 +3,7 @@
 # Edgardo Rodríguez
 ### Desarrollador Full-Stack · Estudiante de Ingeniería de Sistemas (9.º sem.)
 
-*Construyo aplicaciones web desde el backend hasta el despliegue:*
+
 *APIs, bases de datos, tiempo real, Docker y CI/CD.*
 
 📍 Bucaramanga, Colombia &nbsp;·&nbsp; 🌎 Disponible para remoto &nbsp;·&nbsp; 🎯 Buscando práctica o primer rol junior
